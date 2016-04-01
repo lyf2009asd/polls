@@ -1,0 +1,34 @@
+body {
+  padding-top: 50px;
+  background-color: #2aabd2;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: left;
+}
+h1 {
+  font-family:"Arial Black";
+
+
+}
+
+div div div{
+  background-color: #D3FBD3;
+  border-radius: 6px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: 'Oswald', sans-serif;
+  text-align: left;
+
+}
+.postcontent {
+  padding-left: 20px;
+;
+}
+.pubdate{
+  padding-top: 10px;;
+}
+p {
+  padding-top: 20px;
+
+}
